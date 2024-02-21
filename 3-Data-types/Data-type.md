@@ -4,7 +4,7 @@
 
 JavaScript divides data essentially into two main categories: primitives and objects.
 
-Primitives Datatype
+### Primitives Datatype
 
 - String
 - Number
@@ -15,8 +15,10 @@ Primitives Datatype
 - Symbol
 - Object
 
-Object Datatype
+### Object Datatype
 
 - Object
 - Array
 - Date
+
+## Objects
