@@ -12,3 +12,17 @@ const object = { key: "value" }; // object
 const array = [1, 2, 3]; // array
 const date = new Date(); // date
 const functionValue = function () {}; // function
+
+/** Objects */
+
+let user = new Object(); // "object constructor" syntax
+let user2 = {}; // "object literal" syntax
+
+user = {
+  name: "Tony",
+  age: 26,
+};
+
+user.isUnderage = false; // add new property
+
+delete user.isUnderage; // remove property
