@@ -21,4 +21,4 @@ The conversion rule:
 - Values that are intuitively “empty”, like 0, an empty string, null, undefined, and NaN, become false.
 - Other values become true.
 
-:warining: **Please note: the string with zero "0" is true**
+:warning: **Please note: the string with zero "0" is true**
